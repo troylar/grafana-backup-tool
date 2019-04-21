@@ -1,7 +1,5 @@
 # Grafana Dashboard Backup Tool
 
-Some python programs to call Grafana API to:
-
 * Save every datasource to each datasource file.
 	* **saveDatasources.py**
 * Save every folder to each datasource file.
